@@ -1,0 +1,15 @@
+PODS:
+  - GPUImage (0.1.7)
+  - librtmp-iOS (1.1.0)
+
+DEPENDENCIES:
+  - GPUImage (~> 0.1.7)
+  - librtmp-iOS (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  librtmp-iOS: bfe6a2978e01ac97160ede5d3ccde9e3c1d1ee58
+
+PODFILE CHECKSUM: d164a9ed4b0492d2f4fad0ac5c6d9e79e69f4884
+
+COCOAPODS: 1.1.1
